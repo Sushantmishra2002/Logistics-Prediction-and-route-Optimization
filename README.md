@@ -337,5 +337,3 @@ If you found this project useful:
 - 📢 **Share** with others
 
 ---
-
-> Built with ❤️ for smarter logistics and efficient delivery systems.
